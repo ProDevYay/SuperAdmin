@@ -1,0 +1,10 @@
+ban: allow
+kick: allow
+telep: allow
+spectate: allow
+survival: allow
+svanish: allow
+
+OPs:
+  -
+

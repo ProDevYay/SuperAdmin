@@ -1,0 +1,101 @@
+main: me.sg.bst.Bst
+name: BetterStaff
+version: 1.0
+author: SupaGamerYT
+
+api-version: 1.16
+
+commands:
+
+
+  spectateallow:
+    description: allow /spectate
+    usage: /<command>
+  spectatedeny:
+    description: disable /spectate
+    usage: /<command>
+
+  survivalallow:
+    description: allow /survival
+    usage: /<command>
+
+  survivaldeny:
+    description: disable /survival
+    usage: /<command>
+
+  telepallow:
+    desription: allow /telep
+    usage: /<command>
+  telepdeny:
+    desription: disable /telep
+    usage: /<command>
+
+  svanishallow:
+    desription: allow /svanish
+    usage: /<command>
+
+  svanishdeny:
+    desription: disable /svanish
+    usage: /<command>
+
+  bannallow:
+    desription: allow /bann
+    usage: /<command>
+
+  pardonnallow:
+    desription: allow /pardonn
+    usage: /<command>
+
+  kickkallow:
+    description: allow /kickk
+    usage: /<command>
+
+  kickkdeny:
+    description: disable /kickk
+    usage: /<command>
+
+  banndeny:
+    desription: disable /bann
+    usage: /<command>
+
+  pardonndeny:
+    desription: disable /pardonn
+    usage: /<command>
+
+  makeop:
+    desription: a command give someone BetterStaff Operator power
+    usage: /<command>
+
+  spectate:
+    description: a command to go in spectate mode
+    usage: /<command>
+
+  survival:
+    description: a command to go back in survival mode
+    usage: /<command>
+
+  telep:
+    desription: a command to tp, obviously
+    usage: /<command>
+
+  svanish:
+    desription: a command to vansih, obviously
+    usage: /<command>
+  bann:
+    desription: a command to ban, obviously
+    usage: /<command>
+
+  pardonn:
+    desription: a command to pardon, obviously
+    usage: /<command>
+
+  checkop:
+    desription: a command to check if a player is a BetterStaff operator
+    usage: /<command>
+
+  kickk:
+    desription: a command to kick players, obviously
+    usage: /<command>
+  removeop:
+    desription: a command to deop players
+    usage: /<command>
